@@ -1,0 +1,7 @@
+### Hey!
+
+- I’m currently working with ARM7TDMI emulation, dotnet core, design, game developing, full-stack website engineering, Node.js, and Rust.
+- I’m currently learning deep learning and NLP.
+- I’m looking to collaborate on small projects that help me on my daily life.
+- How to reach me: arskiy#9101 on discord or mail me (my e-mail is listed on my profile).
+- Pronouns: she/her.
