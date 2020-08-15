@@ -1,4 +1,4 @@
-### Hey!
+### Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - I’m currently working with ARM7TDMI emulation, dotnet core, design, game development, full-stack website engineering, Node.js, and Rust.
 - I’m currently learning deep learning and NLP.
